@@ -1,4 +1,4 @@
 Student Management System
 
-![ER DIAGRAM](ER_DIAGRAM_U.png)
+![ER DIAGRAM](ER_DIAGRAM _U.png)
 
