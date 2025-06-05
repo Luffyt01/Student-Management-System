@@ -14,5 +14,4 @@ import java.util.List;
 @Repository
 public interface SubjectRepository extends JpaRepository<Subject, Long> {
     List<Subject> findBySemester(Semester semester);
-    // You can add custom query methods here if needed
 }
