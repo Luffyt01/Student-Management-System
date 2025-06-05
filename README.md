@@ -1,2 +1,2 @@
-![ER DIAGRAM](ER_DIAGRAM.png)
+![ER DIAGRAM](e.png)
 
